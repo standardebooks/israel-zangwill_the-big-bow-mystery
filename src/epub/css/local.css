@@ -23,6 +23,10 @@ p span.i1{
 }
 
 /* letters and signatures */
+header{
+	margin-bottom: 1em;
+}
+
 footer{
 	margin-top: 1em;
 	text-align: right;
@@ -36,5 +40,11 @@ footer{
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
 	text-align: initial;
+	text-indent: 0;
+}
+
+/* placards */
+blockquote.placard p{
+	text-align: center;
 	text-indent: 0;
 }

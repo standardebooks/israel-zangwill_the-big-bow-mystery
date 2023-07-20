@@ -33,8 +33,20 @@ footer{
 	text-align: right;
 }
 
+[epub|type~="z3998:recipient"]{
+	font-style: italic;
+}
+
+[epub|type~="z3998:recipient"] i{
+	font-style: normal;
+}
+
 [epub|type~="z3998:sender"],
 [epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
+#introduction [epub|type~="z3998:salutation"]{
 	font-variant: small-caps;
 }
 
@@ -45,7 +57,8 @@ footer{
 }
 
 /* placards */
-#chapter-6 blockquote p, #chapter-11 blockquote p{
+#chapter-6 blockquote p,
+#chapter-11 blockquote p{
 	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;

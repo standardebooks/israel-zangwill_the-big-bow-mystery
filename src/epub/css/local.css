@@ -45,7 +45,7 @@ footer{
 }
 
 /* placards */
-blockquote.placard p{
+#chapter-6 blockquote p, #chapter-11 blockquote p{
 	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;

@@ -32,6 +32,8 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037269</meta>
 		<meta property="se:subject">Mystery</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A seemingly impossible murder commited during the trade union movement becomes the obsession of London’s Bow district.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;On a foggy morning in the Bow district of London, a popular labor organizer is found in his bed with his throat cut. It seems impossible for the wound to be self-inflicted, but it seems equally impossible that anyone could have entered his room during the night. The crime and its bizarre circumstances become the talk of the town, as retired Scotland Yard detective George Grodman finds himself pitted against his younger successor, not only to identify the perpetrator but also to explain how the murder was commited.&lt;/p&gt;

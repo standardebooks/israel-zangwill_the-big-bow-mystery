@@ -1,6 +1,16 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+blockquote header{
+	font-variant: small-caps;
+	margin-bottom: 1em;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 /* poetry */
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
@@ -22,17 +32,7 @@ p span.i1{
 	text-indent: -1em;
 }
 
-/* letters and signatures */
-header{
-	font-variant: small-caps;
-	margin-bottom: 1em;
-}
-
-footer{
-	margin-top: 1em;
-	text-align: right;
-}
-
+/* letters */
 [epub|type~="z3998:recipient"]{
 	font-style: italic;
 }

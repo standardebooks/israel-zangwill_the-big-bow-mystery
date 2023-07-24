@@ -41,6 +41,10 @@ p span.i1{
 	font-style: italic;
 }
 
+[epub|type~="z3998:recipient"] + p{
+	text-indent: 0;
+}
+
 [epub|type~="z3998:recipient"] i{
 	font-style: normal;
 }
@@ -61,9 +65,8 @@ p span.i1{
 }
 
 /* placards */
-#chapter-6 blockquote p,
-#chapter-11 blockquote p{
+#chapter-6 blockquote,
+#chapter-11 blockquote{
 	font-variant: small-caps;
 	text-align: center;
-	text-indent: 0;
 }

@@ -32,7 +32,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85037269</meta>
 		<meta property="se:subject">Mystery</meta>
-		<meta id="collection-1" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta id="collection-1" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">A seemingly impossible murder commited during the trade union movement becomes the obsession of London’s Bow district.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">

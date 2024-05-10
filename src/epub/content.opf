@@ -43,7 +43,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/28164</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/006156262</dc:source>
 		<meta property="se:word-count">43600</meta>
-		<meta property="se:reading-ease.flesch">73.68</meta>
+		<meta property="se:reading-ease.flesch">73.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Big_Bow_Mystery</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/israel-zangwill_the-big-bow-mystery</meta>
 		<dc:creator id="author">Israel Zangwill</dc:creator>

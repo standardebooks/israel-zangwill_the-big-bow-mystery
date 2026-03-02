@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
 	<file path="chapter-9.xhtml">
-		<ignore>
-			<code>y-022</code>
+		<ignore code="y-022">
 			<reason>Consecutive quotations are intentional (illustrating the overlapping shouts of a mob).</reason>
 		</ignore>
 	</file>
